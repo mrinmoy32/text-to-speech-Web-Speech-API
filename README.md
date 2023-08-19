@@ -16,7 +16,7 @@ This is a simple web application that allows users to convert text into speech. 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+2. Open the `TTS_using_Web_Speech_API.html` file in a web browser.
 3. Enter the text you want to convert to speech in the input field.
 4. Click the "Listen" button to hear the text spoken aloud.
 
